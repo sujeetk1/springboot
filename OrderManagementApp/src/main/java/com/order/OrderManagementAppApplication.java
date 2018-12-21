@@ -23,7 +23,7 @@ public class OrderManagementAppApplication {
 		order.setProductName("laptop");	
 		order.setOrderDate(new Date());
 		order.setOrderDestination("chennai");
-		order.setEmail("sujeet.com@gmail.com");
+		order.setEmail("sujeetk1@abc.com");
 		
 		
 			
